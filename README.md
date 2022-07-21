@@ -19,7 +19,7 @@ The analysis concluded the following outcomes:
   - Denver: number of total votes 306,055 and that represented 82.8% of the total votes
   - Jefferson: number of total votes 38,855 and that represented 10.5% of the total votes
   - Arapahoe: number of total votes 24,801 and that represented 6.7% of the total votes
-  - 
+ 
 ![Election_resilt_summary](https://github.com/A-Mossa/Election-Analysis/blob/main/County_votes_results.png)
 
 - Which county had the largest number of votes?
