@@ -19,7 +19,9 @@ The analysis concluded the following outcomes:
   - Denver: number of total votes 306,055 and that represented 82.8% of the total votes
   - Jefferson: number of total votes 38,855 and that represented 10.5% of the total votes
   - Arapahoe: number of total votes 24,801 and that represented 6.7% of the total votes
+  - 
 ![Election_resilt_summary](https://github.com/A-Mossa/Election-Analysis/blob/main/County_votes_results.png)
+
 - Which county had the largest number of votes?
   - Denver was the county with the largest number of votes (306,055)
 - The Candidate results were:
@@ -32,6 +34,7 @@ The analysis concluded the following outcomes:
 ## Election-Audit Summary
 The code utilized this audit is sufficient to carry out the same analysis of results to almost any similar situation with minor tweaks.
 given the next project posses a similar database, the code can be slightly refactored to accomodate difference and changes if the desired outcome is of the same nature as this audit.
+
 ![Code_screenshot](https://github.com/A-Mossa/Election-Analysis/blob/main/PyPollCode.png)
 
 For example, if in the future should the stake holders wish to include additional attributes, then more variables would be created and code would be slightly modified to govern the interaction between said variables.
